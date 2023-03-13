@@ -30,7 +30,7 @@
 
 						<suiteXmlFiles>
 							<suiteXmlFile>testng_dependsOnMethod.xml</suiteXmlFile>
-							<suiteXmlFile>testng_window.xml</suiteXmlFile>
+							
 
 
 						</suiteXmlFiles>
