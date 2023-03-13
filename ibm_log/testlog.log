@@ -1,0 +1,15 @@
+2023-02-27 13:27:09,255 - NOP comm Application Module -INFO - ============================
+2023-02-27 13:27:09,261 - NOP comm Application Module -INFO - launch application
+2023-02-27 13:27:12,293 - NOP comm Application Module -INFO - Application url : https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-02-27 13:27:14,265 - NOP comm Application Module -INFO - Application launch sucessfully
+2023-02-27 13:27:14,503 - NOP comm Application Module -INFO - before login application title: Your store. Login
+2023-02-27 13:27:14,505 - NOP comm Application Module -INFO - clear the email value
+2023-02-27 13:27:14,589 - NOP comm Application Module -INFO - enter email: admin@yourstore.com
+2023-02-27 13:27:14,714 - NOP comm Application Module -INFO - clear the password value
+2023-02-27 13:27:14,840 - NOP comm Application Module -INFO - enter password: 
+2023-02-27 13:27:19,934 - NOP comm Application Module -INFO - click on rem me checkbox
+2023-02-27 13:27:20,012 - NOP comm Application Module -INFO - click on login Button
+2023-02-27 13:27:27,273 - NOP comm Application Module -INFO - after login application title: Dashboard / nopCommerce administration
+2023-02-27 13:27:27,273 - NOP comm Application Module -INFO - click on logout Button
+2023-02-27 13:27:32,119 - NOP comm Application Module -INFO - before logout application title: Your store. Login
+2023-02-27 13:27:32,127 - NOP comm Application Module -INFO - close an application
